@@ -25,8 +25,7 @@ assembled with the assembler, run with the simulator or just used to debug your
 custom implementation of the assembler, since you can compare the assembler's
 output with the provided assembled object code.
 - **[FPGA](https://github.com/sic-xe/fpga)**: An implementation of the SIC/XE
-architecture on an FPGA development board. The target is the RealDigital
-Boolean, but the code is written with portability in mind.
+architecture on a RealDigital Blackboard FPGA development board.
 - **[sic-xe.github.io](https://github.com/sic-xe/sic-xe.github.io)**: The source
 code of the website.
 
